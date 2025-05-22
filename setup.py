@@ -19,8 +19,8 @@ if (this_directory / "requirements.txt").exists():
 setup(
     name="scientific-plot-scaler",
     version="1.0.0",
-    author="Research Community",
-    author_email="research@example.com",
+    author="Vijay Nandurdikar",
+    author_email="vijaynandurdikar@gmail.com",
     description="A tool for creating publication-ready scientific plots with proper text scaling for LaTeX documents",
     long_description=long_description,
     long_description_content_type="text/markdown",

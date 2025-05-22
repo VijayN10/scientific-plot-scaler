@@ -10,10 +10,10 @@ description = "A tool for creating publication-ready scientific plots with prope
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "Research Community", email = "research@example.com"}
+    {name = "Vijay Nandurdikar", email = "vijaynandurdikar@gmail.com"}
 ]
 maintainers = [
-    {name = "Research Community", email = "research@example.com"}
+    {name = "Vijay Nandurdikar", email = "vijaynandurdikar@gmail.com"}
 ]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -55,11 +55,11 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/scientific-plot-scaler"
-Documentation = "https://github.com/yourusername/scientific-plot-scaler/wiki"
-Repository = "https://github.com/yourusername/scientific-plot-scaler"
-"Bug Tracker" = "https://github.com/yourusername/scientific-plot-scaler/issues"
-Changelog = "https://github.com/yourusername/scientific-plot-scaler/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/VijayN10/scientific-plot-scaler"
+Documentation = "https://github.com/VijayN10/scientific-plot-scaler/wiki"
+Repository = "https://github.com/VijayN10/scientific-plot-scaler"
+"Bug Tracker" = "https://github.com/VijayN10/scientific-plot-scaler/issues"
+Changelog = "https://github.com/VijayN10/scientific-plot-scaler/blob/main/CHANGELOG.md"
 
 [project.scripts]
 plot-scaler = "scientific_plot_scaler.plot_scaler:main"
