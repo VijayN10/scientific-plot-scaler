@@ -23,7 +23,7 @@ This tool automatically:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/scientific-plot-scaler.git
+git clone https://github.com/VijayN10/scientific-plot-scaler.git
 cd scientific-plot-scaler
 
 # Install dependencies
@@ -213,7 +213,7 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 ### Development Setup
 
 ```bash
-git clone https://github.com/yourusername/scientific-plot-scaler.git
+git clone https://github.com/VijayN10/scientific-plot-scaler.git
 cd scientific-plot-scaler
 pip install -e .
 pip install pytest black flake8  # development dependencies
@@ -237,7 +237,7 @@ If you use this tool in your research, please cite:
 @software{scientific_plot_scaler,
   title={Scientific Plot Scaler for LaTeX Documents},
   author={Research Community},
-  url={https://github.com/yourusername/scientific-plot-scaler},
+  url={https://github.com/VijayN10/scientific-plot-scaler},
   year={2025}
 }
 ```
